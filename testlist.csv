@@ -1,2 +1,1 @@
-IncidentID,RequestedDate,RequestID,Status,Owner,Comments,Condition,SignatureName,SourceIP,SourceHost,SourcePort,DestinationIP,DestinationHost,DestinationPort,CVE,L7_HTTP_Request_Method,L7_HTTP_URI,L7_HTTP_User_Agent,L7_HTTP_Return_Code,L7_HTTP_Host,Tag,
-935728,,,Closed,Srinivas,,sig,DNS: Microsoft Windows DNS Server Denial Of Service Vulnerability (CVE-2017-0171),,,,,,,,,,,,,,
+hello
